@@ -26,7 +26,7 @@ app.use(clerkMiddleware())
 
 // API Routes
 app.get('/', (req, res)=> res.send('Server is Live!'))
-app.use('/inngest', serve({
+app.use('/api/inngest', serve({
     client: inngest,
     functions,
   }))
