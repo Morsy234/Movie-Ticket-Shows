@@ -18,12 +18,3 @@ Inngest (Event-driven architecture)
 ### Other Tools:
 Vercel (Frontend Deployment)
 
-
-
-
-## 📁 Folder Structure
-quickshow/
-├── client/         # React frontend
-├── server/         # Node/Express backend
-├── .env            # Environment variables
-├── README.md
