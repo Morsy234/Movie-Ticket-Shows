@@ -1,12 +1,29 @@
-# React + Vite
+# Quickshow 🎭
+Quickshow is a full-stack application for booking and managing movie or show tickets. It includes user authentication, seat selection, admin management, and real-time availability updates.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 🛠 Tech Stack
+### Frontend:
 
-Currently, two official plugins are available:
+React.js
+Tailwind CSS
+Redux Toolkit
+React Router
+### Backend:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Node.js
+Express.js
+MongoDB (Mongoose)
+Clerk (Authentication)
+Inngest (Event-driven architecture)
+### Other Tools:
+Vercel (Frontend Deployment)
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+
+## 📁 Folder Structure
+quickshow/
+├── client/         # React frontend
+├── server/         # Node/Express backend
+├── .env            # Environment variables
+├── README.md
