@@ -4,17 +4,17 @@ Quickshow is a full-stack application for booking and managing movie or show tic
 ## 🛠 Tech Stack
 ### Frontend:
 
-React.js
-Tailwind CSS
-Redux Toolkit
-React Router
+-React.js
+-Tailwind CSS
+-Redux Toolkit
+-React Router
 ### Backend:
 
-Node.js
-Express.js
-MongoDB (Mongoose)
-Clerk (Authentication)
-Inngest (Event-driven architecture)
+-Node.js
+-Express.js
+-MongoDB (Mongoose)
+-Clerk (Authentication)
+-Inngest (Event-driven architecture)
 ### Other Tools:
 Vercel (Frontend Deployment)
 
